@@ -1,9 +1,0 @@
-{
-  "name": "railway-xpanel",
-  "private": true,
-  "version": "0.3.0",
-  "type": "module",
-  "scripts": {"dev": "vite", "build": "vite build"},
-  "dependencies": {"@vitejs/plugin-vue": "^6.0.0", "axios": "^1.11.0", "pinia": "^3.0.3", "vite": "^7.1.2", "vue": "^3.5.18", "vue-router": "^4.5.1"},
-  "devDependencies": {}
-}
